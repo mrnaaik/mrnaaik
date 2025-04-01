@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi there!
 
-<!--
-**mrnaaik/mrnaaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nenavath Nagendra Naik
 
-Here are some ideas to get you started:
+🎓 B Tech graduate with a strong foundation in full-stack development.
+🌍 Based in Kurnoo, Andhra Pradesh, India.
+💼 Open for job opportunities in the tech industry.
+🧠 Passionate about building scalable and efficient web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills:
+➡️ Front-End: HTML, CSS and JavaScript.
+➡️ Back-End: Python (Advanced).
+➡️ Database: MySQL, SQL and MongoDB.
+➡️ Frameworks: Django, Pytest, Bootstrap and Flask.
+➡️ Testing: Automation Testing, Selenium with python and API Testing.
+➡️ Language: English, Telugu & Hindi (Speak only).
+➡️ Development Tools: PyCharm, VS Code (IDEs), Jupyter Notebook, Postman (API Testing), Netlify, Git & GitHub.
+
+🚀 Projects:
+➡️ Developed a full-stack web application using the VS Code.
+➡️ Implemented features such as user authentication, dynamic content rendering, and RESTful APIs.
+➡️ Created a responsive e-commerce website using HTML, CSS, Bootstrap, and JavaScript.
+➡️ Integrated payment gateway and user-friendly UI/UX.
+➡️ Built a data visualization dashboard using Python and SQL to provide insights and analytics on large ㅤㅤㅤㅤㅤㅤdatasets.
+
+📚 Education:
+🎓 B.Tech (CSE) from Rayalaseema University College of Engineering, Kurnool, Andhra Pradesh | 2020-2024.
+🎓 Intermediate (MPC) at APSWER Res.Sch/Jr College, Jupadubanglow, Andhra Pradesh | 2017-2019.
