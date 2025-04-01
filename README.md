@@ -14,15 +14,65 @@ I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack developmen
 
 ###
 ### **Frontend**  
-HTML | CSS | JavaScript | Bootstrap  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+</div>
+
+###
 ### **Backend**  
-Python (Advanced) | Django | Flask | RESTful APIs  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+</div>
+
+###
+
 ### **Databases**  
-MySQL | SQL | MongoDB  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+</div>
+
+### 
 ### **Testing & Automation**  
-Selenium (Python) | Pytest | API Testing (Postman)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="35" alt="pytest logo"  />
+</div>
+
+###
+API Testing  
 ### **Tools & Platforms**  
-VS Code | PyCharm | Git/GitHub | Jupyter Notebook | Netlify  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="netlify logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="35" alt="bitbucket logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />
+</div>
+
+### 
 
 ---
 
