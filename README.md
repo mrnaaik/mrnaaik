@@ -2,7 +2,7 @@
 **Full-Stack Developer | Python Expert | Automation Tester**  
 
 📍 Kurnool, Andhra Pradesh, India  
-📧 [Your Email] | 🔗 [Your Portfolio/GitHub] | 💼 [LinkedIn Profile]  
+📧 nnagendranaik2001@gmail.com | 🔗 [Your Portfolio/GitHub] | 💼 [https://portfolionaayak.netlify.app/]  
 
 ---
 
