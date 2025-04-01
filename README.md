@@ -1,28 +1,58 @@
-👋 Hi there!
+# Nenavath Nagendra Naik
+**Full-Stack Developer | Python Expert | Automation Tester**  
 
-I'm Nenavath Nagendra Naik
+📍 Kurnool, Andhra Pradesh, India  
+📧 [Your Email] | 🔗 [Your Portfolio/GitHub] | 💼 [LinkedIn Profile]  
 
-🎓 B Tech graduate with a strong foundation in full-stack development.
-🌍 Based in Kurnoo, Andhra Pradesh, India.
-💼 Open for job opportunities in the tech industry.
-🧠 Passionate about building scalable and efficient web applications.
+---
 
-🔧 Skills:
-➡️ Front-End: HTML, CSS and JavaScript.
-➡️ Back-End: Python (Advanced).
-➡️ Database: MySQL, SQL and MongoDB.
-➡️ Frameworks: Django, Pytest, Bootstrap and Flask.
-➡️ Testing: Automation Testing, Selenium with python and API Testing.
-➡️ Language: English, Telugu & Hindi (Speak only).
-➡️ Development Tools: PyCharm, VS Code (IDEs), Jupyter Notebook, Postman (API Testing), Netlify, Git & GitHub.
+## 👨‍💻 About Me  
+I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack development** and a passion for building scalable, efficient web applications. Skilled in both frontend and backend technologies, I thrive in problem-solving and delivering robust solutions. Open to **job opportunities** in the tech industry.  
 
-🚀 Projects:
-➡️ Developed a full-stack web application using the VS Code.
-➡️ Implemented features such as user authentication, dynamic content rendering, and RESTful APIs.
-➡️ Created a responsive e-commerce website using HTML, CSS, Bootstrap, and JavaScript.
-➡️ Integrated payment gateway and user-friendly UI/UX.
-➡️ Built a data visualization dashboard using Python and SQL to provide insights and analytics on large ㅤㅤㅤㅤㅤㅤdatasets.
+---
 
-📚 Education:
-🎓 B.Tech (CSE) from Rayalaseema University College of Engineering, Kurnool, Andhra Pradesh | 2020-2024.
-🎓 Intermediate (MPC) at APSWER Res.Sch/Jr College, Jupadubanglow, Andhra Pradesh | 2017-2019.
+## 🛠️ Technical Skills  
+### **Frontend**  
+HTML | CSS | JavaScript | Bootstrap  
+### **Backend**  
+Python (Advanced) | Django | Flask | RESTful APIs  
+### **Databases**  
+MySQL | SQL | MongoDB  
+### **Testing & Automation**  
+Selenium (Python) | Pytest | API Testing (Postman)  
+### **Tools & Platforms**  
+VS Code | PyCharm | Git/GitHub | Jupyter Notebook | Netlify  
+
+---
+
+## 🚀 Projects  
+### **1. Full-Stack Web Application**  
+- Built using **VS Code** with features like **user authentication**, dynamic content rendering, and RESTful APIs.  
+- **Tech Stack**: Django, JavaScript, MySQL.  
+
+### **2. E-Commerce Website**  
+- Responsive design using **HTML, CSS, Bootstrap, JavaScript**.  
+- Integrated **payment gateway** and optimized UI/UX.  
+
+### **3. Data Visualization Dashboard**  
+- Developed with **Python & SQL** to analyze and visualize large datasets.  
+- Provided actionable insights through interactive charts.  
+
+---
+
+## 📚 Education  
+- **B.Tech (CSE)**  
+  Rayalaseema University College of Engineering, Kurnool (2020–2024)  
+- **Intermediate (MPC)**  
+  APSWER Res. Sch/Jr College, Jupadubanglow (2017–2019)  
+
+---
+
+## 🌐 Languages  
+- English (Professional)  
+- Telugu (Native)  
+- Hindi (Conversational)  
+
+---
+
+📫 **Let’s connect!** Open to collaborations and job opportunities in **web development, automation testing, and backend engineering**.  
