@@ -1,12 +1,12 @@
 # Nenavath Nagendra Naik
-**Full-Stack Developer | Python Expert | Automation Tester**  
+**Software Developer | Python Expert | Automation Tester**  
 
 📍 Kurnool, Andhra Pradesh, India  
 
 ---
 
 ## 👨‍💻 About Me  
-I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack development** and a passion for building scalable, efficient web applications. Skilled in both frontend and backend technologies, I thrive in problem-solving and delivering robust solutions. Open to **job opportunities** in the tech industry.  
+I'm a recent **B.Tech (CSE) graduate** with expertise in **full-stack development** and a passion for building scalable, efficient web applications. Skilled in both frontend and backend technologies and testing engineer, I thrive in problem-solving and delivering robust solutions. Open to **job opportunities** in the tech industry.  
 
 ---
 
