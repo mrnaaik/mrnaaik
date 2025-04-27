@@ -1,6 +1,6 @@
 # Nenavath Nagendra Naik
 **Software Developer | Python Expert | Automation Tester**  
-- Mbile: +91 9000723703**
+- Mbile: +91 9000723703
 - Email: nnagendranaik200@gmail.com
 - 📍 Kurnool, Andhra Pradesh, India -518380
 
