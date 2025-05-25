@@ -73,7 +73,14 @@ API Testing
 </div><br>
   <div>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />Jupyter
+    <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />Jira
+    <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  /> Vercel
+    <img width="15" />
+</div>
+
+###
 </div>
 
 ### 
