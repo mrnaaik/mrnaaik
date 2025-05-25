@@ -70,6 +70,8 @@ API Testing
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="35" alt="bitbucket logo"  /> Bitbucket
   <img width="15" />
+</div><br>
+  <div>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="jupyter logo"  />Jupyter
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />Jira
 </div>
